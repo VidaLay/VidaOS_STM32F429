@@ -1,0 +1,17 @@
+.\objects\vdelay.o: VIDAOS\Src\vDelay.c
+.\objects\vdelay.o: .\VidaOS\Inc\VidaOS.h
+.\objects\vdelay.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\vdelay.o: .\VidaOS\Inc\vLib.h
+.\objects\vdelay.o: .\VidaOS\Inc\vConfig.h
+.\objects\vdelay.o: .\VidaOS\Inc\vTask.h
+.\objects\vdelay.o: .\VidaOS\Inc\vSched.h
+.\objects\vdelay.o: .\VidaOS\Inc\vDelay.h
+.\objects\vdelay.o: .\VidaOS\Inc\vEvent.h
+.\objects\vdelay.o: .\VidaOS\Inc\vSem.h
+.\objects\vdelay.o: .\VidaOS\Inc\vMbox.h
+.\objects\vdelay.o: .\VidaOS\Inc\vMemBlock.h
+.\objects\vdelay.o: .\VidaOS\Inc\vFlagGroup.h
+.\objects\vdelay.o: .\VidaOS\Inc\vMutex.h
+.\objects\vdelay.o: .\VidaOS\Inc\vTimer.h
+.\objects\vdelay.o: .\VidaOS\Inc\vHooks.h
+.\objects\vdelay.o: .\VidaOS\Inc\VidaOS.h

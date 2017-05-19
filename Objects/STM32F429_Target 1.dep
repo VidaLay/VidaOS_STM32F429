@@ -1,0 +1,279 @@
+Dependencies for Project 'STM32F429', Target 'Target 1': (DO NOT MODIFY !)
+F (.\USER\app.c)(0x591CA259)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\USER\main.c)(0x58FF9548)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)()
+F (.\VIDAOS\Src\vBitmap.c)(0x5902C2E4)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vbitmap.o --omf_browse .\objects\vbitmap.crf --depend .\objects\vbitmap.d)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+F (.\VIDAOS\Src\vCPU.c)(0x5902C27A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vcpu.o --omf_browse .\objects\vcpu.crf --depend .\objects\vcpu.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x56447AD8)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f429xx.h)(0x56447AD8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x56447AD6)
+F (.\VIDAOS\Src\vDelay.c)(0x590A647B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vdelay.o --omf_browse .\objects\vdelay.crf --depend .\objects\vdelay.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vEvent.c)(0x5908851A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vevent.o --omf_browse .\objects\vevent.crf --depend .\objects\vevent.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vFlagGruop.c)(0x5908912F)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vflaggruop.o --omf_browse .\objects\vflaggruop.crf --depend .\objects\vflaggruop.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vHooks.c)(0x5902C395)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vhooks.o --omf_browse .\objects\vhooks.crf --depend .\objects\vhooks.d)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+F (.\VIDAOS\Src\VidaOS.c)(0x591CA8BD)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vidaos.o --omf_browse .\objects\vidaos.crf --depend .\objects\vidaos.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x56447AD8)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f429xx.h)(0x56447AD8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x56447AD6)
+F (.\VIDAOS\Src\vList.c)(0x59036079)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vlist.o --omf_browse .\objects\vlist.crf --depend .\objects\vlist.d)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+F (.\VIDAOS\Src\vMbox.c)(0x590886F5)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vmbox.o --omf_browse .\objects\vmbox.crf --depend .\objects\vmbox.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vMemBlock.c)(0x5908851A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vmemblock.o --omf_browse .\objects\vmemblock.crf --depend .\objects\vmemblock.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vMutex.c)(0x5908851A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vmutex.o --omf_browse .\objects\vmutex.crf --depend .\objects\vmutex.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vSched.c)(0x59084ADE)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vsched.o --omf_browse .\objects\vsched.crf --depend .\objects\vsched.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vSem.c)(0x5908851A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vsem.o --omf_browse .\objects\vsem.crf --depend .\objects\vsem.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (.\VIDAOS\Src\vSList.c)(0x59035386)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vslist.o --omf_browse .\objects\vslist.crf --depend .\objects\vslist.d)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+F (.\VIDAOS\Src\vTask.c)(0x59087A2E)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vtask.o --omf_browse .\objects\vtask.crf --depend .\objects\vtask.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x56FEA54E)
+F (.\VIDAOS\Src\vTimer.c)(0x5902B479)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\vtimer.o --omf_browse .\objects\vtimer.crf --depend .\objects\vtimer.d)
+I (.\VidaOS\Inc\VidaOS.h)(0x590A655A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (.\VidaOS\Inc\vLib.h)(0x590A6564)
+I (.\VidaOS\Inc\vConfig.h)(0x591CAAE8)
+I (.\VidaOS\Inc\vTask.h)(0x590A657E)
+I (.\VidaOS\Inc\vSched.h)(0x590A6574)
+I (.\VidaOS\Inc\vDelay.h)(0x590A6517)
+I (.\VidaOS\Inc\vEvent.h)(0x590A653A)
+I (.\VidaOS\Inc\vSem.h)(0x590A6579)
+I (.\VidaOS\Inc\vMbox.h)(0x590A6568)
+I (.\VidaOS\Inc\vMemBlock.h)(0x590A656C)
+I (.\VidaOS\Inc\vFlagGroup.h)(0x590A6541)
+I (.\VidaOS\Inc\vMutex.h)(0x590A6570)
+I (.\VidaOS\Inc\vTimer.h)(0x590A6582)
+I (.\VidaOS\Inc\vHooks.h)(0x590A654B)
+F (RTE\Device\STM32F429IGTx\startup_stm32f429xx.s)(0x58FFBA6A)(--cpu Cortex-M4.fp -g --apcs=interwork -I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1" --pd "STM32F429xx SETA 1"--list .\listings\startup_stm32f429xx.lst --xref -o .\objects\startup_stm32f429xx.o --depend .\objects\startup_stm32f429xx.d)
+F (RTE\Device\STM32F429IGTx\system_stm32f4xx.c)(0x58FF74FA)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\VidaOS\Inc-I E:\Users\Boan\Desktop\VidaOS\VidaOS_STM32F429\RTE-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F429xx -DSTM32F429xx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x56447AD8)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f429xx.h)(0x56447AD8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FEA54E)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.8.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x56447AD6)

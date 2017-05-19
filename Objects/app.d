@@ -1,0 +1,17 @@
+.\objects\app.o: USER\app.c
+.\objects\app.o: .\VidaOS\Inc\VidaOS.h
+.\objects\app.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\app.o: .\VidaOS\Inc\vLib.h
+.\objects\app.o: .\VidaOS\Inc\vConfig.h
+.\objects\app.o: .\VidaOS\Inc\vTask.h
+.\objects\app.o: .\VidaOS\Inc\vSched.h
+.\objects\app.o: .\VidaOS\Inc\vDelay.h
+.\objects\app.o: .\VidaOS\Inc\vEvent.h
+.\objects\app.o: .\VidaOS\Inc\vSem.h
+.\objects\app.o: .\VidaOS\Inc\vMbox.h
+.\objects\app.o: .\VidaOS\Inc\vMemBlock.h
+.\objects\app.o: .\VidaOS\Inc\vFlagGroup.h
+.\objects\app.o: .\VidaOS\Inc\vMutex.h
+.\objects\app.o: .\VidaOS\Inc\vTimer.h
+.\objects\app.o: .\VidaOS\Inc\vHooks.h
+.\objects\app.o: .\VidaOS\Inc\VidaOS.h

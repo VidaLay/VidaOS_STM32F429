@@ -1,0 +1,17 @@
+.\objects\vflaggruop.o: VIDAOS\Src\vFlagGruop.c
+.\objects\vflaggruop.o: .\VidaOS\Inc\VidaOS.h
+.\objects\vflaggruop.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vLib.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vConfig.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vTask.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vSched.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vDelay.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vEvent.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vSem.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vMbox.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vMemBlock.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vFlagGroup.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vMutex.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vTimer.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\vHooks.h
+.\objects\vflaggruop.o: .\VidaOS\Inc\VidaOS.h

@@ -1,0 +1,17 @@
+.\objects\vmemblock.o: VIDAOS\Src\vMemBlock.c
+.\objects\vmemblock.o: .\VidaOS\Inc\VidaOS.h
+.\objects\vmemblock.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vLib.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vConfig.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vTask.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vSched.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vDelay.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vEvent.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vSem.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vMbox.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vMemBlock.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vFlagGroup.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vMutex.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vTimer.h
+.\objects\vmemblock.o: .\VidaOS\Inc\vHooks.h
+.\objects\vmemblock.o: .\VidaOS\Inc\VidaOS.h

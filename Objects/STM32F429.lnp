@@ -1,0 +1,25 @@
+--cpu Cortex-M4.fp
+".\objects\app.o"
+".\objects\main.o"
+".\objects\vbitmap.o"
+".\objects\vcpu.o"
+".\objects\vdelay.o"
+".\objects\vevent.o"
+".\objects\vflaggruop.o"
+".\objects\vhooks.o"
+".\objects\vidaos.o"
+".\objects\vlist.o"
+".\objects\vmbox.o"
+".\objects\vmemblock.o"
+".\objects\vmutex.o"
+".\objects\vsched.o"
+".\objects\vsem.o"
+".\objects\vslist.o"
+".\objects\vtask.o"
+".\objects\vtimer.o"
+".\objects\startup_stm32f429xx.o"
+".\objects\system_stm32f4xx.o"
+--strict --scatter ".\Objects\STM32F429.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\STM32F429.map" -o .\Objects\STM32F429.axf
