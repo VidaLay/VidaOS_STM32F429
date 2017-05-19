@@ -24,4 +24,4 @@ Software Environment
 
 Headwear
 ------------
-* STM32F429 MCU Discovery Kits
+* STM32F429 MCU Discovery Kit
