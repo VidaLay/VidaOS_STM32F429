@@ -16,8 +16,12 @@ A tiny RTOS for ARM Cortex-M3/M4 with basic function：
 * CPU usage and free stack measure
 
 
-Environment
+Software Environment
 ------------
 
 * MDK Version 5.20.0.0
+
+
+Headwear
+------------
 * STM32F429 MCU Discovery Kits
