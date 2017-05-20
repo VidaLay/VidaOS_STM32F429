@@ -22,6 +22,6 @@ Software Environment
 * MDK Version 5.20.0.0
 
 
-Headwear
+Hardware
 ------------
 * STM32F429 MCU Discovery Kit
