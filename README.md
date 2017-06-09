@@ -11,7 +11,6 @@ A tiny RTOS for ARM Cortex-M3/M4 with basic function：
 * Memory Block
 * Flag Group
 * Mutex
-* Quick rollback
 * Timer
 * CPU usage and free stack measure
 
